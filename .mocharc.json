@@ -1,0 +1,5 @@
+{
+  "spec": ["src/**/*.test.js"],
+  "watch-files": "src/**.js",
+  "require": "src/testHelpers/mochaHooks.js"
+}
