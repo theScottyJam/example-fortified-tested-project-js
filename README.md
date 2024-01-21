@@ -1,8 +1,8 @@
 # Example Fortified Tested Project (JavaScript)
 
-This project is a TODO-management REST API written in Node, and tested in accordance with the guidelines outlined in the Fortified Testing Philosophy. It's purpose is to demonstrate one way to follow the philosophy, but it isn't the only way. As one example - in order to replace dependencies with test doubles, it uses a pattern akin to the service locator pattern, but you could also use dependency inversion if you prefer. Bear in mind that this project is just an example - the core business logic is fairly simple (so as to be easier to comprehend), and the testing effort being put into it is overkill for what little it does, but hopefully it can still do the job of demonstrating the philosophy in action.
+This project is a TODO-management REST API written in Node, and tested in accordance with the guidelines outlined in [the Fortified Testing Philosophy](https://thescottyjam.github.io/fortified-testing-philosophy/revisions/1/). It's purpose is to demonstrate one way to follow the philosophy, but it isn't the only way. As one example - in order to replace dependencies with test doubles, it uses a pattern akin to the service locator pattern, but you could also use dependency inversion if you prefer. Bear in mind that this project is just an example - the core business logic is fairly simple (so as to be easier to comprehend), and the testing effort being put into it is overkill for what little it does, but hopefully it can still do the job of demonstrating the philosophy in action.
 
-Comments or questions? Feel free to leave an issue or open a discussion on github.
+Comments or questions? Feel free to [open an issue](https://github.com/theScottyJam/example-fortified-tested-project-js/issues) or [start a discussion](https://github.com/theScottyJam/example-fortified-tested-project-js/discussions) on gitHub.
 
 ## Using this project
 
